@@ -1,7 +1,5 @@
-# los-python-app
+# Odile
 
-Python dash app to consume and display sparql data
+Python POC whose purpose is to verify if we could renovate existing tool with RDF data
 
-Example for the Linked Open Statistics Hackathon
-
-[View app](https://los-dash-app.herokuapp.com)
+(Odile : outil de diagnostic local pour l'implantation d'entreprise)

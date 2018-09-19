@@ -1,0 +1,65 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-09-19 11:09+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=cp1252\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: app.py:25
+msgid "Odil ou Odette"
+msgstr ""
+
+#: app.py:26
+msgid "Paramètres du diagnostic local"
+msgstr ""
+
+#: app.py:27
+msgid "Sélection de la commune"
+msgstr ""
+
+#: app.py:28
+msgid "Département"
+msgstr ""
+
+#: app.py:35
+msgid "Commune"
+msgstr ""
+
+#: app.py:42
+msgid "Sélection de l'activité"
+msgstr ""
+
+#: app.py:50
+msgid "Résultats"
+msgstr ""
+
+#: app.py:54
+msgid "Filtrer sur un sexe"
+msgstr ""
+
+#: app.py:58
+msgid "Hommes"
+msgstr ""
+
+#: app.py:59
+msgid "Femmes"
+msgstr ""
+
+#: app.py:99
+msgid "Evolution démographique"
+msgstr ""
+
+#: app.py:116
+msgid "Structure de la population en 2015"
+msgstr ""
+
